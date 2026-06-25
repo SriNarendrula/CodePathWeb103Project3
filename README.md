@@ -1,6 +1,6 @@
 # WEB103 Project 3 - *Community*
 
-Submitted by: **YSri Narendrula**
+Submitted by: **Sri Narendrula**
 
 About this web app: **uses postgres to show a coummunity page**
 
