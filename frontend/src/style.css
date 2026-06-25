@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  background-color: #120f0c;
+  color: #f5deb3;
+  font-family: 'Georgia', serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+a {
+  text-decoration: none;
+}
